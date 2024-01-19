@@ -5,6 +5,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white&color=0d1117)](https://twitter.com/JoshuaFrankle) &nbsp; -->
 
 <div style="display: flex; display: -webkit-box; display: -webkit-flex;">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Joshuafrankle&theme=green_nur&&background=0d1117&border=444" height="150">
-<img src="https://github-readme-stats.vercel.app/api?username=Joshuafrankle&show_icons=true&title_color=0cebba&icon_color=0cebba&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="150"  style="margin-left: 50px">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=joshua-powerofn&theme=green_nur&&background=0d1117&border=444" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=joshua-powerofn&show_icons=true&title_color=0cebba&icon_color=0cebba&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="150"  style="margin-left: 50px">
  </div>
